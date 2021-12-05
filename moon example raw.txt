@@ -1,0 +1,13 @@
+Moon	Moon Product	Quantity	Ore TypeID	SolarSystemID	PlanetID	MoonID
+Elarel V - Moon 1
+	Bitumens	0.195406869054	45492	30003044	40193347	40193348
+	Sylvite	0.351669192314	45491	30003044	40193347	40193348
+	Zeolites	0.252923935652	45490	30003044	40193347	40193348
+	
+	
+--------------------------------------------------------------------------------------------
+Moon	Moon Product	Quantity	Ore TypeID	SolarSystemID	PlanetID	MoonID
+Elarel V - Moon 1						
+	Bitumens	0.1954068691	45492	30003044	40193347	40193348
+	Sylvite	0.3516691923	45491	30003044	40193347	40193348
+	Zeolites	0.2529239357	45490	30003044	40193347	40193348
